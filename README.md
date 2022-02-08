@@ -4,4 +4,4 @@ Una aplicación sencilla de React para mostrar nombre, simbolo, icono, precio y 
 
 A simple React App to show name, symbol, icon, price and 24 hours volume of each cryptocurrency, includes a search bar to filt them by name.
 
-
+[Echarle un vistazo/take a look](https://lautarokc.github.io/apiCoinGeckoPractice/)
